@@ -11,9 +11,9 @@
 
 #### 软件架构
 
-软件架构说明 
 
-![输入图片说明](image/技术架构.png)
+软件架构说明 
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/28ee1fc18a8f467f880c931d2697a760.png)
 
 #### 功能介绍
  
@@ -32,9 +32,9 @@
 
 ##### 身份权限管理		
     权限管理服务，平台统一的权限体系架构，用于管理角色、菜单、子账户等
-![输入图片说明](image/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90%EF%BC%9A%E9%92%88%E5%AF%B9%E8%A7%92%E8%89%B2%E4%B8%8E%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90%E5%BA%94%E7%94%A8%EF%BC%88%E4%B8%9A%E5%8A%A1%E4%BA%BA%E5%91%98%EF%BC%89.png)
-![输入图片说明](image/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%9F%BA%E4%BA%8ERBAC%E7%9A%84%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB.png)
-![输入图片说明](image/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%A4%9A%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90%EF%BC%9A%E9%92%88%E5%AF%B9%E8%A7%92%E8%89%B2%E4%B8%8E%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90%E5%BA%94%E7%94%A8%EF%BC%88%E4%B8%9A%E5%8A%A1%E4%BA%BA%E5%91%98%EF%BC%89.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%9F%BA%E4%BA%8ERBAC%E7%9A%84%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%A4%9A%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98.png)
 
 ##### 平台基础管理		
     基础功能服务，主要包含系统基础设置，如：租户管理、配置管理等；开发管理，如：值集、个性化、编码规则、配置维护、数据源管理等；
@@ -65,8 +65,8 @@
 
 ##### 工作流		
     基于Activiti的工作流引擎服务,支持灵活的配置，搭建健全的业务审批管理流程;数据维护审批;申请、订单审批费用申请与报销,各类业务单据等
-![输入图片说明](image/%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
-
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E5%B7%A5%E4%BD%9C%E6%B5%81DEMO.png)
 ##### 通用数据导入		
     通用导入服务，支持Excel、csv数据导入。支持自定义渲染Excel模板，自定义数据校验，自定义数据导入。  Excel读取永远不会内存溢出
 
@@ -87,42 +87,42 @@
 
 ##### 集成平台	
     外部能力集成、内部能力开放等功能，支持Rest、SOAP等多种格式转换，并可对接口进行全面监控、权限控制、接口映射等管理
-![输入图片说明](image/%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1.png)
 #### 特性
 
 ##### 云原生
 
     基于分布部署和统一运管，以分布式云，以容器、微服务、DevOps等技术为基础建立技术产品体系
 
-![输入图片说明](image/云原生.png)
+![img](https://github.com/eeveek/oms/blob/main/front-end/%E4%BA%91%E5%8E%9F%E7%94%9F.png)
 
 ##### 开发
 
     集成GitLab的代码统一管理能力、支持多种类型的制品库管理能力、集成CI/CD的自动化流水线、内建的代码扫描与质量分析，全流程跟进开发过程
 
-![输入图片说明](image/开发.png)
+![img](https://github.com/eeveek/oms/blob/main/front-end/%E5%BC%80%E5%8F%91.png)
 
 ##### 部署
 
     包括集群管理、环境管理、资源管理，支持集群与环境的统一管理和集中分配，支持自动化部署流水线与一键式的手工部署，高效灵活地支撑产品运维
 
-![输入图片说明](image/部署.png)
+![img](https://github.com/eeveek/oms/blob/main/front-end/%E9%83%A8%E7%BD%B2.png)
 
 ##### 测试
 
     包括测试用例管理、测试计划管理、测试执行管理、缺陷管理、 测试报告管理，支持手工测试并提供API测试、性能测试、流量 回归测试、UI测试等自动化测试能力，测试任务还可嵌入开发流 水线，持续测试有效保障产品质量
 
-![输入图片说明](image/测试.png)
+![img]((https://github.com/eeveek/oms/blob/main/front-end/%E6%B5%8B%E8%AF%95.png)
 
 ##### 技术支持
 
     轻松支持springcloud和Istio两种微服务模式，可以轻松为已部署的服务创建带来负载均衡、端到端的身份验证、监视等功能
 
-![输入图片说明](image/技术支持.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81.png)
 
 #### 联系方式
 
-![输入图片说明](image/we.png) ![输入图片说明](image/gzh.png)
+![img](https://github.com/eeveek/oms/blob/main/front-end/we.png)  ![img](https://github.com/eeveek/oms/blob/main/front-end/gzh.png)
 
 
 #### 特技
