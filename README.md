@@ -112,7 +112,7 @@
 
     包括测试用例管理、测试计划管理、测试执行管理、缺陷管理、 测试报告管理，支持手工测试并提供API测试、性能测试、流量 回归测试、UI测试等自动化测试能力，测试任务还可嵌入开发流 水线，持续测试有效保障产品质量
 
-![img]((https://github.com/eeveek/oms/blob/main/front-end/%E6%B5%8B%E8%AF%95.png)
+![img](https://github.com/eeveek/oms/blob/main/front-end/%E6%B5%8B%E8%AF%95.png)
 
 ##### 技术支持
 
