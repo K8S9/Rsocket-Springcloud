@@ -32,7 +32,6 @@
 
 ##### 身份权限管理		
     权限管理服务，平台统一的权限体系架构，用于管理角色、菜单、子账户等
-![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90%EF%BC%9A%E9%92%88%E5%AF%B9%E8%A7%92%E8%89%B2%E4%B8%8E%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90%E5%BA%94%E7%94%A8%EF%BC%88%E4%B8%9A%E5%8A%A1%E4%BA%BA%E5%91%98%EF%BC%89.png)
 ![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%9F%BA%E4%BA%8ERBAC%E7%9A%84%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB.png)
 ![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%A4%9A%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98.png)
 
