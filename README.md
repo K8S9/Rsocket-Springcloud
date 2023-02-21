@@ -32,8 +32,8 @@
 
 ##### 身份权限管理		
     权限管理服务，平台统一的权限体系架构，用于管理角色、菜单、子账户等
-![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%9F%BA%E4%BA%8ERBAC%E7%9A%84%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB.png)
-![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB-%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%EF%BC%9A%E5%A4%9A%E7%BA%A7%E7%AE%A1%E7%90%86%E5%91%98.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/RBAC%E6%9D%83%E9%99%90.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/RBAC%E6%9D%83%E9%99%90.png)
 
 ##### 平台基础管理		
     基础功能服务，主要包含系统基础设置，如：租户管理、配置管理等；开发管理，如：值集、个性化、编码规则、配置维护、数据源管理等；
@@ -65,7 +65,6 @@
 ##### 工作流		
     基于Activiti的工作流引擎服务,支持灵活的配置，搭建健全的业务审批管理流程;数据维护审批;申请、订单审批费用申请与报销,各类业务单据等
 ![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
-![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E5%B7%A5%E4%BD%9C%E6%B5%81DEMO.png)
 ##### 通用数据导入		
     通用导入服务，支持Excel、csv数据导入。支持自定义渲染Excel模板，自定义数据校验，自定义数据导入。  Excel读取永远不会内存溢出
 
@@ -87,6 +86,9 @@
 ##### 集成平台	
     外部能力集成、内部能力开放等功能，支持Rest、SOAP等多种格式转换，并可对接口进行全面监控、权限控制、接口映射等管理
 ![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1.png)
+##### 服务组合
+    服务组合 基于各微服务组合的产品开发方案 
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9C%8D%E5%8A%A1%E7%BB%84%E5%90%88.png)
 #### 特性
 
 ##### 云原生
