@@ -30,10 +30,10 @@
     移动端可使用密码模式(password)登录系统 。
     并支持基于Spring Social 的三方账号登录方式，如微信/QQ、支付宝、微博等，并提供拓展模式，支持更多三方渠道。
 
-##### 身份权限管理		
+##### 多租户身份权限管理		
     权限管理服务，平台统一的权限体系架构，用于管理角色、菜单、子账户等
 ![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/RBAC%E6%9D%83%E9%99%90.png)
-![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/RBAC%E6%9D%83%E9%99%90.png)
+![img](https://github.com/K8S9/Rsocket-Springcloud/blob/main/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86.png)
 
 ##### 平台基础管理		
     基础功能服务，主要包含系统基础设置，如：租户管理、配置管理等；开发管理，如：值集、个性化、编码规则、配置维护、数据源管理等；
